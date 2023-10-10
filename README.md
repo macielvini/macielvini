@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔥 Software Engineer
 - 🌱 GitHub Actions
-- 💬 Ask me about **React.JS, Node.JS, TypeScript, PostgreSQL**
+- 💬 Ask me about **React.JS, Node.JS, NestJS, TypeScript, PostgreSQL**
 - ⚡ Fun fact: I own two cute little cats
 
 <br>
